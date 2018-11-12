@@ -1,0 +1,5 @@
+*.txt
+*.zip
+.DS_Store
+venv
+*-grams
